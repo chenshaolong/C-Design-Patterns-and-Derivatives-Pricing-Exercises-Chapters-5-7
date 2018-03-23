@@ -1,1 +1,1 @@
-# C-Design-Patterns-and-Derivatives-Pricing-Exercises-Chapters-5-8
+# C-Design-Patterns-and-Derivatives-Pricing-Exercises-Chapters-5-7
